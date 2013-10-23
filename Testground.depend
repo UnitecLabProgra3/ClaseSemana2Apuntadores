@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1381455648 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiClase.cpp
+	"MiClase.h"
+
+1381455657 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiClase.h
+	<iostream>
+
+1382061624 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/main.cpp
+	<iostream>
+	"Jugador.h"
+	"Enemigo.h"
+
+1381456153 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiOtraClase.cpp
+	"MiOtraClase.h"
+
+1381456528 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiOtraClase.h
+	"MiClase.h"
+
+1382060934 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Jugador.cpp
+	"Jugador.h"
+
+1382060923 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Jugador.h
+
+1382061232 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Enemigo.cpp
+	"Enemigo.h"
+
+1382061227 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Enemigo.h
+	"Jugador.h"
+
